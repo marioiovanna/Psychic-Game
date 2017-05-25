@@ -59,7 +59,7 @@ document.onkeyup = function(event) {
  	}
 
 } else if (checker = -1) {
-		alert("ENTER VALID KEY BITCH")
+		alert("ENTER VALID KEY")
 
 }
 
