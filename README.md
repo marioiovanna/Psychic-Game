@@ -4,7 +4,7 @@ My first game created in HTML with Javascript language !!!
 
 ## Gameplay
 
-This game is the basic physic game, where you need to guest the **letter** that the browser is thinking. Is really easy to play and spend time.
+This game is the basic physic game, where you need to guest the ##**letter** that the browser is thinking. Is really easy to play and spend time.
 
 ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/work.png "Main")
 
