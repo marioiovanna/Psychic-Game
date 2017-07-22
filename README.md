@@ -10,6 +10,7 @@ This game is the basic physic game, where you need to guest the **_LETTER_** tha
 
 ### Start
 As soon you start, *pressing any letter on the keyboard*, the game will display, with the chances that you have left to guess and the letter that you enter already...
+
  ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/start.png "start")
 
 
