@@ -9,11 +9,12 @@ This game is the basic physic game, where you need to guest the **_LETTER_** tha
 ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/work.png "Main")
 
 ### Start
-As soon you start, *pressing any letter on the keyboard*, the game will display this box ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/start.png "start")
+As soon you start, *pressing any letter on the keyboard*, the game will display, with the chances that you have left to guess and the letter that you enter already...
+ ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/start.png "start")
 
-with the chances that you have left to guess and the letter that you enter already...
 
 While you playing it will be displaying the results ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/left.png "playing")
+
 
 If you repeat any letter that you already enter, it will show an alert warning you that action ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/error.PNGg "alert")
 
