@@ -25,11 +25,10 @@ If you guest the letter you win and the game will restart, and will add a win on
 ### LOSS
 If you miss the 9 changes that you have to guest the letter, the game will restart and will display a loss on your display ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/loss.png "Loss")
 
-#### Logic
-You can find the logic of this game on the folder **/assets/** in the file **myScript.js**.
 
 ## ENJOY
-
+#### Logic
+You can find the logic of this game on the folder **/assets/** in the file **myScript.js**.
 
 
 
