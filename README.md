@@ -1,6 +1,6 @@
 # Psychic Game
 
-First game created in HTML with Javascript language !!!
+My first game created in HTML with Javascript language !!!
 
 ## Gameplay
 
