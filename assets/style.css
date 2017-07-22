@@ -1,0 +1,24 @@
+
+body {
+    background: url("img/back.png");
+    background-size: 100% auto;
+}
+
+.jumbotron {
+    margin-top: 100px;
+    border: solid 3px #FFFAF0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+    color: darkorange;
+    background-image: url("img/jumbo.jpg");
+    background-size: cover;
+}
+
+#sofar {
+    font-size: 80px;
+    color: red;
+}
+
+.guest {
+    color: floralwhite;
+}
