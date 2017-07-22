@@ -17,7 +17,7 @@ As soon you start, *pressing any letter on the keyboard*, the game will display,
 While you playing it will be displaying the results ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/left.png "playing")
 
 
-If you repeat any letter that you already enter, it will show an alert warning you that action ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/error.PNGg "alert")
+If you repeat any letter that you already enter, it will show an alert warning you that action ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/error.PNG "alert")
 
 ### WIN
 If you guest the letter you win and the game will restart, and will add a win on your display ![alt text](https://github.com/marioiovanna/Psychic-Game/blob/master/assets/img/win.png "Win")
