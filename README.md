@@ -32,7 +32,7 @@ You can find the logic of this game on the folder **/assets/** in the file **myS
 
 
 
-
+Link: https://marioiovanna.github.io/Psychic-Game/
 
 
 
